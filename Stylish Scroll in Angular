@@ -3,3 +3,8 @@ In Built PAckages
 https://www.npmjs.com/package/angular-io-slimscroll
 
 if want you this in all modules then create one separate module and import and export the SlimScroll
+
+
+Pls find the link for to fix the errors
+
+https://stackoverflow.com/questions/46414783/angular-io-slimscroll-not-working-in-modules
