@@ -1,0 +1,5 @@
+
+In Built PAckages
+https://www.npmjs.com/package/angular-io-slimscroll
+
+if want you this in all modules then create one separate module and import and export the SlimScroll
